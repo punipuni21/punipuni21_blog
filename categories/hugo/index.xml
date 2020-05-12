@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chanmitsu55 blog</title>
-    <link>https://punipuni21.github.io/punipuni_blog.github.io/</link>
-    <description>Recent content on chanmitsu55 blog</description>
+    <title>HUGO on chanmitsu55 blog</title>
+    <link>https://punipuni21.github.io/punipuni_blog.github.io/categories/hugo/</link>
+    <description>Recent content in HUGO on chanmitsu55 blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 12 May 2020 21:46:17 +0900</lastBuildDate>
     
-	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
