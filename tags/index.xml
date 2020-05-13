@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on chanmitsu55 blog</title>
+    <title>Tags on ぷにぷにのブログ</title>
     <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/</link>
-    <description>Recent content in Tags on chanmitsu55 blog</description>
+    <description>Recent content in Tags on ぷにぷにのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 12 May 2020 21:46:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 11:24:39 +0900</lastBuildDate>
     
 	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>GitHub</title>
       <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/github/</link>
-      <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
+      <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
       
       <guid>https://punipuni21.github.io/punipuni_blog.github.io/tags/github/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>HUGO</title>
       <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/hugo/</link>
-      <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
+      <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
       
       <guid>https://punipuni21.github.io/punipuni_blog.github.io/tags/hugo/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>test</title>
       <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/test/</link>
-      <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
+      <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
       
       <guid>https://punipuni21.github.io/punipuni_blog.github.io/tags/test/</guid>
       <description></description>

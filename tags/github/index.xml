@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GitHub on chanmitsu55 blog</title>
+    <title>GitHub on ぷにぷにのブログ</title>
     <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/github/</link>
-    <description>Recent content in GitHub on chanmitsu55 blog</description>
+    <description>Recent content in GitHub on ぷにぷにのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 12 May 2020 21:46:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 11:24:39 +0900</lastBuildDate>
     
 	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</link>
+      <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
+      
+      <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</guid>
+      <description>this is my article.</description>
+    </item>
     
     <item>
       <title>最初のブログ</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
       
       <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</guid>
-      <description>aaaaaaaaaaa</description>
+      <description>最初のブログ</description>
     </item>
     
   </channel>
