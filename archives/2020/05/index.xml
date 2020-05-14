@@ -25,7 +25,7 @@
       <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
       
       <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</guid>
-      <description>最初のブログ</description>
+      <description>概要 考察 ソースコード 概要 ここに概要を書きます 問題リンク 考察 ソースコード ここにソースコードを書くhogehoge #include&amp;lt;iostream&amp;gt;using namespace std; int main() { cin.tie(0); ios::sync_with_stdio(false); cout &amp;lt;&amp;lt; fixed &amp;lt;&amp;lt; setprecision(10); int n;</description>
     </item>
     
   </channel>
