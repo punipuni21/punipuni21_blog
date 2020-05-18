@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on ぷにぷにのブログ</title>
+    <title>test on ぷにぷにのサイト</title>
     <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/test/</link>
-    <description>Recent content in test on ぷにぷにのブログ</description>
+    <description>Recent content in test on ぷにぷにのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 13 May 2020 11:24:39 +0900</lastBuildDate>
@@ -13,20 +13,45 @@
     
     <item>
       <title>Second</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</link>
+      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/second/</link>
       <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</guid>
+      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/second/</guid>
       <description>this is my article.</description>
     </item>
     
     <item>
       <title>最初のブログ</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</link>
+      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/first_content/</link>
       <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</guid>
-      <description>概要 考察 ソースコード 概要 ここに概要を書きます 問題リンク 考察 ソースコード ここにソースコードを書くhogehoge #include&amp;lt;iostream&amp;gt;using namespace std; int main() { cin.tie(0); ios::sync_with_stdio(false); cout &amp;lt;&amp;lt; fixed &amp;lt;&amp;lt; setprecision(10); int n;</description>
+      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/first_content/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A6%82%E8%A6%81&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%80%83%E5%AF%9F&#34;&gt;考察&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89&#34;&gt;ソースコード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>最初のブログ</title>
+      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/first_content/</link>
+      <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
+      
+      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/first_content/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A6%82%E8%A6%81&#34;&gt;概要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%80%83%E5%AF%9F&#34;&gt;考察&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89&#34;&gt;ソースコード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://punipuni21.github.io/punipuni_blog.github.io/blog/</loc>
+    <lastmod>2020-05-13T11:24:39+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://punipuni21.github.io/punipuni_blog.github.io/categories/</loc>
     <lastmod>2020-05-13T11:24:39+09:00</lastmod>
   </url>
@@ -18,12 +23,7 @@
   </url>
   
   <url>
-    <loc>https://punipuni21.github.io/punipuni_blog.github.io/post/</loc>
-    <lastmod>2020-05-13T11:24:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</loc>
+    <loc>https://punipuni21.github.io/punipuni_blog.github.io/blog/second/</loc>
     <lastmod>2020-05-13T11:24:39+09:00</lastmod>
   </url>
   
@@ -48,7 +48,12 @@
   </url>
   
   <url>
-    <loc>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</loc>
+    <loc>https://punipuni21.github.io/punipuni_blog.github.io/blog/first_content/</loc>
+    <lastmod>2020-05-12T21:46:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/first_content/</loc>
     <lastmod>2020-05-12T21:46:17+09:00</lastmod>
   </url>
   
