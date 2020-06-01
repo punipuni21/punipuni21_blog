@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on ぷにぷにのサイト</title>
-    <link>https://punipuni21.github.io/punipuni_blog.github.io/tags/test/</link>
+    <link>https://punipuni21.github.io/punipuni21_blog/tags/test/</link>
     <description>Recent content in test on ぷにぷにのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 13 May 2020 11:24:39 +0900</lastBuildDate>
     
-	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punipuni21.github.io/punipuni21_blog/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/second/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/second/</link>
       <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/second/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/second/</guid>
       <description>this is my article.</description>
     </item>
     
     <item>
       <title>最初のブログ</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/first_content/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/first_content/</link>
       <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/first_content/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/first_content/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>最初のブログ</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/first_content/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/hoge/first_content/</link>
       <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/first_content/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/hoge/first_content/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;

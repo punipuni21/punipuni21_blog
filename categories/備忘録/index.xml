@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>備忘録 on ぷにぷにのサイト</title>
-    <link>https://punipuni21.github.io/punipuni_blog.github.io/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</link>
+    <link>https://punipuni21.github.io/punipuni21_blog/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</link>
     <description>Recent content in 備忘録 on ぷにぷにのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/categories/%E5%82%99%E5%BF%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punipuni21.github.io/punipuni21_blog/categories/%E5%82%99%E5%BF%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hoge</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/hoge/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/hoge/</guid>
       <description>概要 ここに概要を書きます 問題リンク 考察 ソースコード ここにソースコードを書くhogehoge #include&amp;lt;iostream&amp;gt;using namespace std; int main() { cin.tie(0); ios::sync_with_stdio(false); cout &amp;lt;&amp;lt; fixed &amp;lt;&amp;lt; setprecision(10); int n; cin &amp;gt;&amp;gt; n; cout &amp;lt;&amp;lt; n*(n+1)/2 &amp;lt;&amp;lt; endl; }</description>
     </item>
     

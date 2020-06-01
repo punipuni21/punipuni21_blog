@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ぷにぷにのブログ</title>
-    <link>https://punipuni21.github.io/punipuni_blog.github.io/post/</link>
+    <link>https://punipuni21.github.io/punipuni21_blog/post/</link>
     <description>Recent content in Posts on ぷにぷにのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 13 May 2020 11:24:39 +0900</lastBuildDate>
     
-	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punipuni21.github.io/punipuni21_blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/post/second/</link>
       <pubDate>Wed, 13 May 2020 11:24:39 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/second/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/post/second/</guid>
       <description>this is my article.</description>
     </item>
     
     <item>
       <title>最初のブログ</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/post/first_content/</link>
       <pubDate>Tue, 12 May 2020 21:46:17 +0900</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/post/first_content/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/post/first_content/</guid>
       <description>概要 考察 ソースコード 概要 ここに概要を書きます 問題リンク 考察 ソースコード ここにソースコードを書くhogehoge #include&amp;lt;iostream&amp;gt;using namespace std; int main() { cin.tie(0); ios::sync_with_stdio(false); cout &amp;lt;&amp;lt; fixed &amp;lt;&amp;lt; setprecision(10); int n;</description>
     </item>
     
