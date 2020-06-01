@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ぷにぷにのサイト</title>
-    <link>https://punipuni21.github.io/punipuni_blog.github.io/</link>
+    <link>https://punipuni21.github.io/punipuni21_blog/</link>
     <description>Recent content on ぷにぷにのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://punipuni21.github.io/punipuni_blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punipuni21.github.io/punipuni21_blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ARC027 C 条件を言い換えてDPの計算量を落とす</title>
-      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/2020_06_02/</link>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/2020_06_02/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/2020_06_02/</guid>
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/2020_06_02/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://atcoder.jp/contests/arc027/tasks/arc027_3&#34;&gt;問題リンク&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;考察&#34;&gt;考察&lt;/h2&gt;
