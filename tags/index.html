@@ -553,16 +553,45 @@ section.footer {
     
     
     
-    
-    
-    
-    
-    
+    .has-jax {
+  font: inherit;
+  font-size: 100%;
+  background: inherit;
+  border: inherit;
+  color: #515151;
+}
+
+.has-jax > .MathJax_Display {
+  text-align: left !important;
+}
   </style>
   
 </head>
 <body>
   <header class="l-header">
+    <script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['\$','\$'], ['\\(','\\)']],
+      displayMath: [['$$','$$']],
+      processEscapes: true,
+      processEnvironments: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      TeX: { equationNumbers: { autoNumber: "AMS" },
+           extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+</script>
     <h1 class="logo">
       <a href="https://punipuni21.github.io/punipuni_blog.github.io/">ぷにぷにのサイト</a>
     </h1>
@@ -616,19 +645,13 @@ section.footer {
   
   <li>
     <h2 class="terms-title">
-      <a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/github">github (3)</a>
+      <a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/dp">dp (1)</a>
     </h2>
   </li>
   
   <li>
     <h2 class="terms-title">
-      <a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/hugo">hugo (3)</a>
-    </h2>
-  </li>
-  
-  <li>
-    <h2 class="terms-title">
-      <a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/test">test (3)</a>
+      <a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/%E6%9D%A1%E4%BB%B6%E3%81%AE%E8%A8%80%E3%81%84%E6%8F%9B%E3%81%88">条件の言い換え (1)</a>
     </h2>
   </li>
   
@@ -666,56 +689,14 @@ section.footer {
   <div class="articles sm">
     
     <article class="lism">
-  <a href="https://punipuni21.github.io/punipuni_blog.github.io/blog/second/">
-    <div class="thumb thumb-9d3709698641ac3b2bd611ad734cfe78"></div>
+  <a href="https://punipuni21.github.io/punipuni_blog.github.io/blog/2020_06_02/">
+    <div class="thumb thumb-339220d40decb7d9aa275794878bd5d7"></div>
 
     <div class="inner">
-      <div class="title">Second</div>
+      <div class="title">ARC027 C 条件を言い換えてDPの計算量を落とす</div>
 
       <ul class="facts sm">
-        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="13007-05-13T11:24:39JST">May 13, 2020</time></li>
-        
-        <li><i class="fas fa-bookmark" aria-hidden="true"></i>BLOG</li>
-        
-        
-        
-      </ul>
-
-    </div>
-  </a>
-</article>
-
-    
-    <article class="lism">
-  <a href="https://punipuni21.github.io/punipuni_blog.github.io/blog/first_content/">
-    <div class="thumb thumb-8e7766badc96e84feb715e440a621fd5"></div>
-
-    <div class="inner">
-      <div class="title">最初のブログ</div>
-
-      <ul class="facts sm">
-        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="12007-05-12T21:46:17JST">May 12, 2020</time></li>
-        
-        <li><i class="fas fa-bookmark" aria-hidden="true"></i>BLOG</li>
-        
-        
-        
-      </ul>
-
-    </div>
-  </a>
-</article>
-
-    
-    <article class="lism">
-  <a href="https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/first_content/">
-    <div class="thumb thumb-871242ce6fd9c92cf93e205633ab86dd"></div>
-
-    <div class="inner">
-      <div class="title">最初のブログ</div>
-
-      <ul class="facts sm">
-        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="12007-05-12T21:46:17JST">May 12, 2020</time></li>
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="2007-06-02T00:00:00JST">Jun 2, 2020</time></li>
         
         <li><i class="fas fa-bookmark" aria-hidden="true"></i>BLOG</li>
         
@@ -736,7 +717,7 @@ section.footer {
   <header>CATEGORIES</header>
   <ul class="terms">
     
-    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/categories/test">test <span class="count">(3)</span></a></li>
+    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD">競プロ <span class="count">(1)</span></a></li>
     
   </ul>
 </section>
@@ -748,11 +729,9 @@ section.footer {
   <header>TAGS</header>
   <ul class="terms">
     
-    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/github">github <span class="count">(3)</span></a></li>
+    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/dp">dp <span class="count">(1)</span></a></li>
     
-    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/hugo">hugo <span class="count">(3)</span></a></li>
-    
-    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/test">test <span class="count">(3)</span></a></li>
+    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/tags/%E6%9D%A1%E4%BB%B6%E3%81%AE%E8%A8%80%E3%81%84%E6%8F%9B%E3%81%88">条件の言い換え <span class="count">(1)</span></a></li>
     
   </ul>
 </section>
@@ -764,7 +743,7 @@ section.footer {
   <header>ARCHIVES</header>
   <ul class="terms">
     
-    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/archives/2020/05">2020/05 <span class="count">(3)</span></a></li>
+    <li><a href="https://punipuni21.github.io/punipuni_blog.github.io/archives/2020/06">2020/06 <span class="count">(1)</span></a></li>
     
   </ul>
 </section>
