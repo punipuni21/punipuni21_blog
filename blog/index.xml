@@ -23,5 +23,14 @@
 &lt;p&gt;\(dp[i][j][k]=\) i番目まで見てスペシャチケットをj枚，通常チケットをk枚使っていた時の嬉しさの最大とすると更新は&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Hoge</title>
+      <link>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://punipuni21.github.io/punipuni_blog.github.io/blog/hoge/</guid>
+      <description>概要 ここに概要を書きます 問題リンク 考察 ソースコード ここにソースコードを書くhogehoge #include&amp;lt;iostream&amp;gt;using namespace std; int main() { cin.tie(0); ios::sync_with_stdio(false); cout &amp;lt;&amp;lt; fixed &amp;lt;&amp;lt; setprecision(10); int n; cin &amp;gt;&amp;gt; n; cout &amp;lt;&amp;lt; n*(n+1)/2 &amp;lt;&amp;lt; endl; }</description>
+    </item>
+    
   </channel>
 </rss>
