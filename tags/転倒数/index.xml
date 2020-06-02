@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>転倒数 on ぷにぷにのサイト</title>
+    <link>https://punipuni21.github.io/punipuni21_blog/tags/%E8%BB%A2%E5%80%92%E6%95%B0/</link>
+    <description>Recent content in 転倒数 on ぷにぷにのサイト</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://punipuni21.github.io/punipuni21_blog/tags/%E8%BB%A2%E5%80%92%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>よく見ると転倒数</title>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/20200602_2/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/20200602_2/</guid>
+      <description>概要 問題リンク 考察 「ABC」が「BCA」になることを「A」と「BC」の交換と見ると，何回これらを交換できるか という問題になる．これは転倒数な</description>
+    </item>
+    
+  </channel>
+</rss>
