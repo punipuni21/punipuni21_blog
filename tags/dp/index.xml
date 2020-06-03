@@ -6,10 +6,19 @@
     <description>Recent content in DP on ぷにぷにのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://punipuni21.github.io/punipuni21_blog/tags/dp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>基本的なDP</title>
+      <link>https://punipuni21.github.io/punipuni21_blog/blog/20200603/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://punipuni21.github.io/punipuni21_blog/blog/20200603/</guid>
+      <description>概要 問題リンク 考察 \(dp[i]=HPをi減らすのに必要な最小魔力として\rm{DP}\) 更新式は $$ chmin(dp[i+A[i]],dp[i]+B[i]) $$ ソースコード #include&amp;lt;iomanip&amp;gt;#include&amp;lt;iostream&amp;gt;#include&amp;lt;vector&amp;gt; using namespace std; typedef long long int ll; const int INF</description>
+    </item>
     
     <item>
       <title>ARC027 C 条件を言い換えてDPの計算量を落とす</title>
